@@ -1,0 +1,6 @@
+{
+  "prompt": "Ultra-realistic photograph of a handcrafted metal key whose edge is intricately carved to match every tiny chip, crack, and irregular dent of a single old, damaged lock mounted on a wooden door. The key is extremely complex and jagged, clearly shaped to fit only this one specific lock. Next to it, slightly out of focus in the background, are several normal new locks of the same type that the key obviously would not fit. The damaged lock shows wear, scratches, and imperfections. The key’s metal surface reflects workshop lighting, showing fine machining marks. Scene set in a realistic locksmith workshop with wooden workbench, metal shavings, and tools scattered naturally. Cinematic natural lighting, shallow depth of field, 35mm lens, high texture detail, physically plausible materials. No text, no letters, no numbers, no diagrams, no symbols, no charts, no overlays, no watermarks.",
+  "model": "nano banana",
+  "concept": "overfitting",
+  "metaphor": "A key carved to match every crack of one damaged lock, but unable to open identical new locks, representing perfect training fit and failed generalization."
+}
