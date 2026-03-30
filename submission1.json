@@ -1,0 +1,9 @@
+{
+  "prompt": "Oil painting in the style of Dutch Golden Age Baroque (circa 1600–1700). A dimly lit interior scene showing a wealthy merchant and a poor laborer standing beside two large wooden barrels of grain. When viewed separately, the merchant’s barrel appears fuller and more prosperous, while the laborer’s barrel appears nearly empty. However, behind them, workers are pouring grain from multiple smaller sacks into a shared storage chest that reveals the total grain of the laborer is actually greater. Dramatic chiaroscuro lighting, strong directional light from a window, deep shadows, earthy color palette, textured brushwork, realistic fabric folds, historically accurate clothing and architecture. Single frame composition, no modern objects. No text, no numbers, no symbols, no diagrams.",
+  "model": "DALL·E 3",
+  "concept": "Simpson's paradox",
+  "tradition_name": "Dutch Golden Age Baroque",
+  "tradition_period": "circa 1600–1700",
+  "tradition_approach": "Uses chiaroscuro lighting, domestic interior realism, and narrative composition to depict local versus aggregated comparisons through material quantities rather than abstract symbols.",
+  "metaphor": "Separate barrels suggest one outcome, but combined grain reveals the opposite, representing reversal between subgroup and aggregate trends."
+}
